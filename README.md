@@ -13,7 +13,7 @@ Premium version of Gate CS Pro
 - Get the latest update related to the Gate exam.
 
 # App Screen Shot
-[![gate-cs-pro.jpg](https://i.postimg.cc/q7nW8jQR/gate-cs-pro.jpg)](https://postimg.cc/WDN9VmBL)
+![gate-cs-pro.jpg](https://i.postimg.cc/q7nW8jQR/gate-cs-pro.jpg)
 
 
 ##
