@@ -13,13 +13,11 @@ Premium version of Gate CS Pro
 - Get the latest update related to the Gate exam.
 
 # App Screen Shot
-![screenshot](/screen/ss_1/to/img.jpg)
-![screenshot](/screen/ss_2/to/img.jpg)
-![screenshot](/screen/ss_3/to/img.jpg)
-![screenshot](/screen/ss_4/to/img.jpg)
-![screenshot](/screen/ss_5/to/img.jpg)
-![screenshot](/screen/ss_6/to/img.jpg)
+[![gate-cs-pro.jpg](https://i.postimg.cc/q7nW8jQR/gate-cs-pro.jpg)](https://postimg.cc/WDN9VmBL)
 
+
+##
+##
 
 
 MIT License
